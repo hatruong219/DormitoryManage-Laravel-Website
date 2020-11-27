@@ -1,0 +1,10 @@
+php artisan make:migration create_area_table --create=area
+php artisan make:migration create_flood_table --create=flood
+php artisan make:migration create_room_table --create=room
+php artisan make:migration create_student_table --create=student
+php artisan make:migration create_noti_table --create=noti
+php artisan make:migration create_price_table --create=price
+php artisan make:migration create_report_table --create=report
+php artisan make:migration create_bill_table --create=bill
+php artisan make:migration create_bill_detail_table --create=bill_detail
+php artisan make:migration create_admin_table --create=admin
